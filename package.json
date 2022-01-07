@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "color-ai",
+  "type": "module",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4",
+    "dirname-filename-esm": "^1.1.1",
+    "jimp": "^0.16.1"
+  }
+}
